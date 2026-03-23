@@ -25,7 +25,7 @@
     DB_HOST=localhost
     DB_NAME=your_database
     DB_PASSWORD=your_password
-    DB_PORT=5432
+    DB_PORT=port_number
     ```
     - Update configuration as needed
 
