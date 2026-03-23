@@ -19,7 +19,14 @@
     ```
 
 3. **Configure environment variables**
-    - Copy `.env.example` to `.env`
+    - Create an env file,  ".env", and set it up like:
+    ```
+    DB_USER=your_username
+    DB_HOST=localhost
+    DB_NAME=your_database
+    DB_PASSWORD=your_password
+    DB_PORT=5432
+    ```
     - Update configuration as needed
 
 ## Running the API
